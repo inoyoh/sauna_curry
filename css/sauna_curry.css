@@ -1,0 +1,152 @@
+.Box {
+  position : relative;
+  width : 650px;
+  height : 650px;
+  margin : 70px auto;
+  background : url(../img/background.png) no-repeat;
+}
+.Box__circle {
+  position : absolute;
+  top : 165px;
+  left : 165px;
+  width : 344px;
+  height : 326px;
+  background : url(../img/bg_circle.png) no-repeat;
+}
+.Box__textWrap {
+  position : absolute;
+  top : 230px;
+  left : 240px;
+  margin : 10px auto;
+}
+.Box__title {
+  width : 202px;
+  height : 105px;
+  margin-bottom : 30px;
+  text-indent : -9999px;
+  background : url(../img/img_title_01.png) no-repeat;
+}
+.Box__text {
+  text-align : center;
+  font-size: 19px;
+  color : #5c8e34;
+}
+.Box__iconCurry {
+  position : absolute;
+  top : 400px;
+  left : 40px;
+  width : 211px;
+  height : 215px;
+  background : url(../img/icon_curry.png) no-repeat;
+}
+.Box__iconSauna {
+  position : absolute;
+  top : 40px;
+  left : 410px;
+  width : 205px;
+  height : 191px;
+  background : url(../img/icon_sauna.png) no-repeat;
+}
+.Box__iconCarrot {
+  position : absolute;
+  top : 220px;
+  left : 70px;
+  width : 45px;
+  height : 76px;
+  background : url(../img/icon_carrot.png) no-repeat;
+}
+.Box__iconSaunaHat {
+  position : absolute;
+  top : 100px;
+  left : 150px;
+  width : 67px;
+  height : 78px;
+  background : url(../img/icon_saunahat.png) no-repeat;
+}
+.Box__iconLeaf {
+  position : absolute;
+  top : 60px;
+  left : 50px;
+  width : 65px;
+  height : 46px;
+  background : url(../img/icon_leaf.png) no-repeat;
+}
+.Box__iconSandClock {
+  position : absolute;
+  top : 50px;
+  left : 270px;
+  width : 58px;
+  height : 55px;
+  background : url(../img/icon_sandclock.png) no-repeat;
+}
+.Box__iconTowel {
+  position : absolute;
+  top : 320px;
+  left : 530px;
+  width : 71px;
+  height : 114px;
+  background : url(../img/icon_towel.png) no-repeat;
+}
+.Box__iconWater {
+  position : absolute;
+  top : 470px;
+  left : 470px;
+  width : 50px;
+  height : 62px;
+  background : url(../img/icon_water.png) no-repeat;
+}
+.Box__iconTomato {
+  position : absolute;
+  top : 550px;
+  left : 550px;
+  width : 48px;
+  height : 49px;
+  background : url(../img/icon_tomato.png) no-repeat;
+}
+.Box__iconOnion {
+  position : absolute;
+  top : 550px;
+  left : 350px;
+  width : 57px;
+  height : 59px;
+  background : url(../img/icon_onion.png) no-repeat;
+}
+
+.MapBox {
+  position : relative;
+  width : 650px;
+  height : 640px;
+  margin : 70px auto;
+  padding-top : 10px;
+  background : url(../img/background.png) no-repeat;
+}
+.MapBox__map {
+  width : 630px;
+  height : 580px;
+  margin : 0 auto;
+  background-color : #ffffff;
+}
+.MapBox__title {
+  position : absolute;
+  bottom : 18px;
+  left : 25px;
+  width : 190px;
+  height : 25px;
+  background : url(../img/img_title_02.png) no-repeat;
+}
+.MapBox__saunaTag {
+  position : absolute;
+  bottom : 14px;
+  left : 370px;
+  width : 122px;
+  height : 33px;
+  background : url(../img/btn_sauna.png) no-repeat;
+}
+.MapBox__curryTag {
+  position : absolute;
+  bottom : 14px;
+  left : 505px;
+  width : 122px;
+  height : 33px;
+  background : url(../img/btn_curry.png) no-repeat;
+}
